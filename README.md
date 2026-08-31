@@ -8,6 +8,9 @@ Big Data Analytics and Cloud Computing
 # 聯絡與教學資源
 LINE 官方帳號　@prof
 
+![大數據分析與雲端運算](https://github.com/leeshihyuan/Big-Data-Analytics-and-Cloud-Computing/blob/main/Big-Data-Analytics-and-Cloud-Computing_Cover-1.jpg "大數據分析與雲端運算")
+
+
 # 關於本書
 《大數據分析與雲端運算》為台灣自編大學教科書系列之一，全書共九篇三十八章，涵蓋大數據與雲端運算的完整技術堆疊——自分散式系統原理、批次與串流運算框架、大規模探勘演算法、生成式人工智慧，到雲端平台、資料治理與整合應用。
 本書適用對象為大學智慧機器人學程、智慧製造學程之學生，亦可作為高中人工智慧與機器人社團課程之進階讀本，或產業界工程人員的自學參考。
@@ -15799,3 +15802,5 @@ L ＝ 4,800,000 元、C ＝ 1,500,000 元、M ＝ 400,000 元。（1） r ＝ 45
 - **樹莓派：** 436、444
 - **邊緣運算：** 434、436、437、444、445
 - **欄式儲存：** 42、45、46、48、50
+
+![大數據分析與雲端運算](https://github.com/leeshihyuan/Big-Data-Analytics-and-Cloud-Computing/blob/main/Big-Data-Analytics-and-Cloud-Computing_Cover-2.png "大數據分析與雲端運算")
